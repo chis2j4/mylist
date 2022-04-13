@@ -1,0 +1,8 @@
+#!name=Remove ADs(anti-ad-surge2)
+#!desc=狙殺常見廣告（需手動更新外部資源） v20220119.01
+
+[Rule]
+
+
+
+DOMAIN-SET,https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-surge2.txt,REJECT
