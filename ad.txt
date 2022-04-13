@@ -1,2 +1,9 @@
+[Adblock Plus]
+! Title: MyFilter
+! Version: 2022.4.13
+! Expires:  
+! Homepage:  
+! ----------------------------------------------------------------------
+
 ||ads*-normal-lf.zijieapi.com^
 ||p*-ad-sign.byteimg.com^
