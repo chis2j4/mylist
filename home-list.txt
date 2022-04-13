@@ -1,0 +1,227 @@
+! my-list Hosts
+! My Host
+
+
+@@||zh.wikipedia.org^$important
+@@||zh.m.wikipedia.org^$important
+@@||1hosts.cf^
+@@||adaway.org^
+@@||b-api.facebook.com^
+@@||graph.facebook.com^
+@@||fonts.gstatic.com^
+@@||rawgit.com^
+@@||rawgit.org^
+@@||gitcdn.xyz^
+@@||raw.githack.com^
+@@||ajax.googleapis.com^
+@@||ajax.aspnetcdn.com^
+@@||ajax.microsoft.com^
+@@||cdnjs.cloudflare.com^
+@@||code.jquery.com^
+@@||cdn.jsdelivr.net^
+@@||fonts.googleapis.com^
+@@||yastatic.net^
+@@||yandex.st^
+@@||apps.bdimg.com^
+@@||libs.baidu.com^
+@@||cdn.staticfile.org^
+@@||cdn.bootcss.com^
+@@||mat1.gtimg.com^
+@@||lib.sinaapp.com^
+@@||upcdn.b0.upaiyun.com^
+@@||stackpath.bootstrapcdn.com^
+@@||maxcdn.bootstrapcdn.com^
+@@||netdna.bootstrapcdn.com^
+@@||use.fontawesome.com^
+@@||ajax.cloudflare.com^
+@@||akamai-webcdn.kgstatic.net^
+@@||gitcdn.github.io^
+@@||vjs.zencdn.net^
+@@||cdn.plyr.io^
+@@||cdn.materialdesignicons.com^
+@@||cdn.ravenjs.com^
+@@||js.appboycdn.com^
+@@||cdn.embed.ly^
+@@||cdn.datatables.net^
+@@||mathjax.rstudio.com^
+@@||sdn.geekzu.org^
+@@||ajax.proxy.ustclug.org^
+@@||unpkg.com^
+@@||pagecdn.io^
+@@||cdn.css.net^
+@@||cdnjs.loli.net^
+@@||ajax.loli.net^
+@@||fonts.loli.net^
+@@||lib.baomitu.com^
+@@||cdn.bootcdn.net^
+
+@@||duckdns.org^$important
+@@||www.duckdns.org^$important
+@@||api.gofile.io^$important
+@@||cache2.gofile.io^$important
+@@||blog.f2pool.com^$important
+@@||2miners.com^$important
+@@||console-telemetry.us-ashburn-1.oci.oraclecloud.com^$important
+@@||c.oracleinfinity.io^$important
+@@||oracle.112.2o7.net^$important
+@@||console-telemetry.oci.oraclecloud.com^$important
+@@||console-telemetry.us-phoenix-1.oci.oraclecloud.com^$important
+@@||usage.plugins.oci.oraclecloud.com^$important
+@@||usage.ap-tokyo-1.oci.oraclecloud.com^$important
+@@||usageapi.ap-tokyo-1.oci.oraclecloud.com^$important
+@@||launchercontent.mojang.com^$important
+@@||games.shopee.tw^$important
+@@||local^$important
+@@||redirect.viglink.com^$important
+@@||dl.codebay.in^$important
+@@||anti-ad.net^$important
+@@||js.media-lab.ai^$important
+@@||nextdns^$important
+@@||cf.shopee.tw^$important
+@@||ai.taobao.com^$important
+@@||c-api-bit.shopeemobile.com^$important
+
+||xlate.dcard.tw^
+||dad-api.dcard.tw^
+
+# GeForce Experience
+@@||events.gfe.nvidia.com^
+@@||ota-downloads.nvidia.com^
+
+# GTA Crashing Fix
+@@||prod.telemetry.ros.rockstargames.com^
+
+# Spotify premium and Ps4 app
+@@||upgrade.scdn.com^
+@@||audio-ake.spotify.com.edgesuite.net^
+@@||spclient.wg.spotify.com^
+@@||apresolve.spotify.com^
+@@||api-partner.spotify.com^$important
+@@||smetrics.aem.playstation.com^$important
+@@||nsx.np.dl.playstation.net^$important
+@@||api-tv.spotify.com^$important
+@@||api2.branch.io^$important
+@@||sentry.io^$important
+
+# URL shorteners
+@@||adf.ly^
+@@||bit.ly^
+@@||goo.gl^
+@@||ow.ly^
+@@||amzn.to^
+@@||amzn.com^
+
+# Plex App and Web
+@@||plex.tv^
+@@||106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services^
+
+# Apple
+@@||s.mzstatic.com^
+@@||www.appleiphonecell.com^
+
+# Firefox
+@@||tracking-protection.cdn.mozilla.net^
+
+# Host files
+@@||hosts-file.net^
+@@||v.firebog.net^
+@@||hostsfile.org^
+@@||someonewhocares.org^
+@@||hostsfile.mine.nu^
+@@||winhelp2002.mvps.org^
+@@||sysctl.org^
+@@||pgl.yoyo.org^
+
+# Nintendo Switch
+@@||receive-lp1.dg.srv.nintendo.net^
+@@||ecs-lp1.hac.shop.nintendo.net^
+@@||accounts.nintendo.com^
+@@||bugyo.hac.lp1.eshop.nintendo.net^
+@@||dauth-lp1.ndas.srv.nintendo.net^
+@@||conntest.nintendowifi.net^
+@@||sun.hac.lp1.d4c.nintendo.net^
+@@||e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com^
+@@||app-a03.lp1.npns.srv.nintendo.net^
+@@||aauth-lp1.ndas.srv.nintendo.net^
+@@||atumn.hac.lp1.d4c.nintendo.net^
+@@||bcat-list-lp1.cdn.nintendo.net^
+@@||broker.lp1.npns.srv.nintendo.net^
+@@||consumer.lp1.npns.srv.nintendo.net^
+@@||ctest.cdn.nintendo.net^
+@@||ctest.nintendo.com^
+@@||104.198.251.169^
+@@beacons*.gvt2.com
+
+# YouTube
+@@||google.de^
+@@||google.com^
+@@||google.com^$important
+@@||google.de^$important
+@@||r4---sn-4g5ednly.googlevideo.com^$important
+@@||r4---sn-h0jeln7l.googlevideo.com^$important
+
+# Misc
+@@||stats.streamelements.com^
+@@||fpdownload.adobe.com^
+@@||entitlement.auth.adobe.com^
+@@||acdn.adnxs.com^
+@@||cdn1.smartadserver.com^
+@@||ec-ns.sascdn.com^
+@@||ae01.alicdn.com^
+@@||offline-maps.gvt1.com^
+@@local
+@@||s.shopify.com^
+@@||hubt.pornhub.com^$important
+@@||hubt.pornhub.com^
+@@||media.trafficjunky.com^$important
+@@||hubtraffic.com^$important
+@@||trafficjunky.com^$important
+@@||ht-cdn2.adtng.com^$important
+@@||cdn77-pic.xnxx-cdn.com^$important
+@@||cdn77-pic.xvideos-cdn.com^$important
+@@||checkip.dyndns.org^$important
+@@||ea.com^$important
+@@||cdn.optimizely.com^
+@@||blockchain.info^$important
+@@||cdn.electronic.us^$important
+@@||js.hs-scripts.com^$important
+@@||go.veeam.com^$important
+@@||cdn77-vid.xnxx-cdn.com^$important
+
+# Optimizely
+@@||cdn.optimizely.com^$important
+@@||cdn2.optimizely.com^$important
+@@||cdn3.optimizely.com^$important
+
+# Buffer CDN 
+@@||bufferapp.com^$important
+# Embedly.com
+@@||cdn.embedly.com^$important
+
+# Akamai Technologies
+@@||akamaihd.net^$important
+@@||akamaitechnologies.com^$important
+@@||akamaized.net^$important
+@@||lastfm-img2.akamaized.net^$important
+@@||widget-cdn.rpxnow.com^$important
+
+# Github
+@@||github.com^$important
+@@||github.io^$important
+@@||raw.githubusercontent.com^$important
+# Cloudflare
+@@||cdn.cloudflare.net^$important
+@@||cdnjs.cloudflare.com^$important
+# Dropbox
+@@||dl.dropbox.com^$important
+@@||dl.dropboxusercontent.com^$important
+@@||ns1.dropbox.com^$important
+@@||ns2.dropbox.com^$important
+# No-IP.com
+@@||dynupdate.no-ip.com^$important
+@@||no-ip.com^$important
+@@||www.no-ip.com^$important
+# Twitter
+@@||twimg.com^$important
+@@||twitter.com^$important
+@@||t.co^$important
