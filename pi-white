@@ -1,0 +1,224 @@
+! my-list Hosts
+! My Host
+
+
+ zh.wikipedia.org 
+ zh.m.wikipedia.org 
+ 1hosts.cf 
+ adaway.org 
+ b-api.facebook.com 
+ graph.facebook.com 
+ fonts.gstatic.com 
+ rawgit.com 
+ rawgit.org 
+ gitcdn.xyz 
+ raw.githack.com 
+ ajax.googleapis.com 
+ ajax.aspnetcdn.com 
+ ajax.microsoft.com 
+ cdnjs.cloudflare.com 
+ code.jquery.com 
+ cdn.jsdelivr.net 
+ fonts.googleapis.com 
+ yastatic.net 
+ yandex.st 
+ apps.bdimg.com 
+ libs.baidu.com 
+ cdn.staticfile.org 
+ cdn.bootcss.com 
+ mat1.gtimg.com 
+ lib.sinaapp.com 
+ upcdn.b0.upaiyun.com 
+ stackpath.bootstrapcdn.com 
+ maxcdn.bootstrapcdn.com 
+ netdna.bootstrapcdn.com 
+ use.fontawesome.com 
+ ajax.cloudflare.com 
+ akamai-webcdn.kgstatic.net 
+ gitcdn.github.io 
+ vjs.zencdn.net 
+ cdn.plyr.io 
+ cdn.materialdesignicons.com 
+ cdn.ravenjs.com 
+ js.appboycdn.com 
+ cdn.embed.ly 
+ cdn.datatables.net 
+ mathjax.rstudio.com 
+ sdn.geekzu.org 
+ ajax.proxy.ustclug.org 
+ unpkg.com 
+ pagecdn.io 
+ cdn.css.net 
+ cdnjs.loli.net 
+ ajax.loli.net 
+ fonts.loli.net 
+ lib.baomitu.com 
+ cdn.bootcdn.net 
+
+ duckdns.org 
+ www.duckdns.org 
+ api.gofile.io 
+ cache2.gofile.io 
+ blog.f2pool.com 
+ 2miners.com 
+ console-telemetry.us-ashburn-1.oci.oraclecloud.com 
+ c.oracleinfinity.io 
+ oracle.112.2o7.net 
+ console-telemetry.oci.oraclecloud.com 
+ console-telemetry.us-phoenix-1.oci.oraclecloud.com 
+ usage.plugins.oci.oraclecloud.com 
+ usage.ap-tokyo-1.oci.oraclecloud.com 
+ usageapi.ap-tokyo-1.oci.oraclecloud.com 
+ launchercontent.mojang.com 
+ games.shopee.tw 
+ local 
+ redirect.viglink.com 
+ dl.codebay.in 
+ anti-ad.net 
+ js.media-lab.ai 
+ nextdns 
+ cf.shopee.tw 
+ ai.taobao.com 
+ c-api-bit.shopeemobile.com 
+ 
+ 
+# GeForce Experience
+ events.gfe.nvidia.com 
+ ota-downloads.nvidia.com 
+
+# GTA Crashing Fix
+ prod.telemetry.ros.rockstargames.com 
+
+# Spotify premium and Ps4 app
+ upgrade.scdn.com 
+ audio-ake.spotify.com.edgesuite.net 
+ spclient.wg.spotify.com 
+ apresolve.spotify.com 
+ api-partner.spotify.com 
+ smetrics.aem.playstation.com 
+ nsx.np.dl.playstation.net 
+ api-tv.spotify.com 
+ api2.branch.io 
+ sentry.io 
+
+# URL shorteners
+ adf.ly 
+ bit.ly 
+ goo.gl 
+ ow.ly 
+ amzn.to 
+ amzn.com 
+
+# Plex App and Web
+ plex.tv 
+ 106c06cd218b007d-b1e8a1331f68446599e96a4b46a050f5.ams.plex.services 
+
+# Apple
+ s.mzstatic.com 
+ www.appleiphonecell.com 
+
+# Firefox
+ tracking-protection.cdn.mozilla.net 
+
+# Host files
+ hosts-file.net 
+ v.firebog.net 
+ hostsfile.org 
+ someonewhocares.org 
+ hostsfile.mine.nu 
+ winhelp2002.mvps.org 
+ sysctl.org 
+ pgl.yoyo.org 
+
+# Nintendo Switch
+ receive-lp1.dg.srv.nintendo.net 
+ ecs-lp1.hac.shop.nintendo.net 
+ accounts.nintendo.com 
+ bugyo.hac.lp1.eshop.nintendo.net 
+ dauth-lp1.ndas.srv.nintendo.net 
+ conntest.nintendowifi.net 
+ sun.hac.lp1.d4c.nintendo.net 
+ e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com 
+ app-a03.lp1.npns.srv.nintendo.net 
+ aauth-lp1.ndas.srv.nintendo.net 
+ atumn.hac.lp1.d4c.nintendo.net 
+ bcat-list-lp1.cdn.nintendo.net 
+ broker.lp1.npns.srv.nintendo.net 
+ consumer.lp1.npns.srv.nintendo.net 
+ ctest.cdn.nintendo.net 
+ ctest.nintendo.com 
+ 104.198.251.169 
+ beacons*.gvt2.com
+
+# YouTube
+ google.de 
+ google.com 
+ google.com 
+ google.de 
+ r4---sn-4g5ednly.googlevideo.com 
+ r4---sn-h0jeln7l.googlevideo.com 
+
+# Misc
+ stats.streamelements.com 
+ fpdownload.adobe.com 
+ entitlement.auth.adobe.com 
+ acdn.adnxs.com 
+ cdn1.smartadserver.com 
+ ec-ns.sascdn.com 
+ ae01.alicdn.com 
+ offline-maps.gvt1.com 
+ s.shopify.com 
+ hubt.pornhub.com 
+ hubt.pornhub.com 
+ media.trafficjunky.com 
+ hubtraffic.com 
+ trafficjunky.com 
+ ht-cdn2.adtng.com 
+ cdn77-pic.xnxx-cdn.com 
+ cdn77-pic.xvideos-cdn.com 
+ checkip.dyndns.org 
+ ea.com 
+ cdn.optimizely.com 
+ blockchain.info 
+ cdn.electronic.us 
+ js.hs-scripts.com 
+ go.veeam.com 
+ cdn77-vid.xnxx-cdn.com 
+
+# Optimizely
+ cdn.optimizely.com 
+ cdn2.optimizely.com 
+ cdn3.optimizely.com 
+
+# Buffer CDN 
+ bufferapp.com 
+# Embedly.com
+ cdn.embedly.com 
+
+# Akamai Technologies
+ akamaihd.net 
+ akamaitechnologies.com 
+ akamaized.net 
+ lastfm-img2.akamaized.net 
+ widget-cdn.rpxnow.com 
+
+# Github
+ github.com 
+ github.io 
+ raw.githubusercontent.com 
+# Cloudflare
+ cdn.cloudflare.net 
+ cdnjs.cloudflare.com 
+# Dropbox
+ dl.dropbox.com 
+ dl.dropboxusercontent.com 
+ ns1.dropbox.com 
+ ns2.dropbox.com 
+# No-IP.com
+ dynupdate.no-ip.com 
+ no-ip.com 
+ www.no-ip.com 
+# Twitter
+ twimg.com 
+ twitter.com 
+ t.co 
