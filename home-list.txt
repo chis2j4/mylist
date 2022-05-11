@@ -80,6 +80,10 @@
 @@||cf.shopee.tw^$important
 @@||ai.taobao.com^$important
 @@||c-api-bit.shopeemobile.com^$important
+@@||ruten.com.tw^
+@@||oa.tr.line.me^
+
+
 
 ||xlate.dcard.tw^
 ||dad-api.dcard.tw^
