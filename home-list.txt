@@ -83,7 +83,7 @@
 @@||ruten.com.tw^
 @@||oa.tr.line.me^
 
-
+@@||unpkg.com^$important
 
 ||xlate.dcard.tw^
 ||dad-api.dcard.tw^
