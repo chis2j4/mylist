@@ -1,6 +1,9 @@
 ! my-list Hosts
 ! My Host
 
+# 馬娘事件簿
+@@||umaevents.io
+
 
 @@||zh.wikipedia.org^$important
 @@||zh.m.wikipedia.org^$important
