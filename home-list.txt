@@ -232,3 +232,5 @@
 @@||twimg.com^$important
 @@||twitter.com^$important
 @@||t.co^$important
+
+@@||t.imgur.com^$important
