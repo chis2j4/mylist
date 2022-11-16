@@ -88,7 +88,7 @@
 
 @@||unpkg.com^$important
 
-||xlate.dcard.tw^
+
 ||dad-api.dcard.tw^
 
 # GeForce Experience
