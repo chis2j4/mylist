@@ -234,3 +234,21 @@
 @@||t.co^$important
 
 @@||t.imgur.com^$important
+
+# line
+||line-apps.com^$important,dnstype=AAAA
+||line.naver.jp^$important,dnstype=AAAA
+||line.me^$important,dnstype=AAAA
+||linecorp.com^$important,dnstype=AAAA
+#||obs-tw.line-apps.com^$important,dnstype=AAAA
+#||obs-jp.line-apps.com^$important,dnstype=AAAA
+#||obs-jp2-addr-ds.line-apps.com^$important,dnstype=AAAA
+#||gw.line.naver.jp^$important,dnstype=AAAA
+#@@||crs-event.line.me^$important
+#@@||uts-f ront.line-apps.com^$important
+#@@||nelo2-col.linecorp.com^$important
+#||crs-event.line.me^$important,dnstype=AAAA
+#||uts-f ront.line-apps.com^$important,dnstype=AAAA
+#||nelo2-col.linecorp.com^$important,dnstype=AAAA
+
+||gov.tw^$important,dnstype=AAAA
