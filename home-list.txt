@@ -235,6 +235,10 @@
 
 @@||t.imgur.com^$important
 
+@@||xp.apple.com^$important
+
+
+
 # line
 ||line-apps.com^$important,dnstype=AAAA
 ||line.naver.jp^$important,dnstype=AAAA
