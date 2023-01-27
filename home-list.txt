@@ -236,6 +236,7 @@
 @@||t.imgur.com^$important
 
 @@||xp.apple.com^$important
+@@||amp-api-edge.apps.apple.com^$important
 
 
 
