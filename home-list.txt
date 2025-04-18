@@ -257,3 +257,5 @@
 #||nelo2-col.linecorp.com^$important,dnstype=AAAA
 
 ||gov.tw^$important,dnstype=AAAA
+
+@@||p-bandai.com^$important
